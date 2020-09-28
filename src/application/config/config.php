@@ -26,7 +26,7 @@ $config['google_sync_feature'] = Config::GOOGLE_SYNC_FEATURE;
 | path to your installation.
 |
 */
-$config['base_url'] = Config::BASE_URL;
+$config['base_url'] = Config::https://appointment-manager-salon.herokuapp.com/;
 
 /*
 |--------------------------------------------------------------------------
